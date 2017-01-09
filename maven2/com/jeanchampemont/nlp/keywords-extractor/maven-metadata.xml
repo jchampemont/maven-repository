@@ -3,10 +3,11 @@
   <groupId>com.jeanchampemont.nlp</groupId>
   <artifactId>keywords-extractor</artifactId>
   <versioning>
-    <release>0.1.0</release>
+    <release>0.1.1</release>
     <versions>
       <version>0.1.0</version>
+      <version>0.1.1</version>
     </versions>
-    <lastUpdated>20170109081942</lastUpdated>
+    <lastUpdated>20170109195029</lastUpdated>
   </versioning>
 </metadata>
