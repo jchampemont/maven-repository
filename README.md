@@ -10,7 +10,7 @@ Add the following repository to your `~/.m2/settings.xml` or project's `pom.xml`
       <name>jchampemont's gh-pages maven repository</name>
       <url>https://jchampemont.github.io/maven-repository/maven2/</url>
     </repository>
-    
+
 ### Gradle
 Add the following repository to your `build.gradle`:
 
@@ -19,3 +19,8 @@ Add the following repository to your `build.gradle`:
         url "https://jchampemont.github.io/maven-repository/maven2/"
       }
     }
+
+### SBT
+Add the following repository to your `build.sbt` file:
+
+    resolvers += "jchampemont-maven" at "https://jchampemont.github.io/maven-repository/maven2/"
